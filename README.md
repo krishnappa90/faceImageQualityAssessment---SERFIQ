@@ -6,12 +6,26 @@ ArcFace Model : Pretrained model with dropouts
 OpenFace model : Pretrained model without dropouts
 
 On-top model with dropouts built on top of the ArcFace model :
+
+
 ![ONTOP-YES-DROPOUTS-ARCFACE](https://github.com/krishnappa90/faceImageQualityAssessment---SERFIQ/assets/169172827/2e33edef-a4a2-4159-97c0-ec525a3a2e79)
 
+
+
+
+
 On-top model without dropouts built on top of the ArcFace model :
+
+
 ![ONTOP-NO-DROPOUTS-ARCFACE (1)](https://github.com/krishnappa90/faceImageQualityAssessment---SERFIQ/assets/169172827/c3861bef-6043-49c5-b139-1bfc0e24c749)
 
+
+
+
+
 On-top model with dropouts built on top of the OpenFace model :
+
+
 ![ONTOP-YES-DROPOUTS-openface](https://github.com/krishnappa90/faceImageQualityAssessment---SERFIQ/assets/169172827/7f4fd739-bef0-4d27-936d-0ea00d06e862)
 
 On-top model without dropouts built on top of the OpenFace model :
