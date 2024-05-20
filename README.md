@@ -41,4 +41,8 @@ Results: It was observed that when the dropout regularization was applied to bot
 
 References :
 https://arxiv.org/abs/2003.09373
+
+
+
+
 https://github.com/pterhoer/FaceImageQuality
