@@ -1,4 +1,4 @@
-# faceImageQualityAssessment---SERFIQ
+# faceImageQualityAssessment---Stochastic embedding robustness face image quality(SER-FIQ)
 Here we have given a detailed explaination of our thesis project.
 Initially we selected two datasets. One for training and one for testing. Then we deviced six use cases. Pretrained model with dropout regularization, Pretrained model with dropout regularization - on-top model without dropouts, Pretrained model with dropout regularization - on-top model with dropouts, Pretrained model without dropout regularization, Pretrained model without dropout regularization - on-top model without dropouts, Pretrained model without dropout regularization - on-top model with dropouts. Here we selected pretrained models as an ArcFace model trained with dropouts and an OpenFace model trained without dropouts. The architectires of the models are illustrated below. 
 
@@ -36,3 +36,9 @@ Then we trained the models in each use case. Later the testing was done and a di
 
 
 Results: It was observed that when the dropout regularization was applied to both the pretrained model and the on-top model, the performance was better than all other use cases. A Full pledged thesis report is attached in this repository, which explains every detail of my masters thesis.
+
+
+
+References :
+https://arxiv.org/abs/2003.09373
+https://github.com/pterhoer/FaceImageQuality
