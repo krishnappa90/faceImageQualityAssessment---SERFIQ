@@ -2,6 +2,7 @@
 Here we have given a detailed explaination of our thesis project.
 Initially we selected two datasets. One for training and one for testing. Then we deviced six use cases. Pretrained model with dropout regularization, Pretrained model with dropout regularization - on-top model without dropouts, Pretrained model with dropout regularization - on-top model with dropouts, Pretrained model without dropout regularization, Pretrained model without dropout regularization - on-top model without dropouts, Pretrained model without dropout regularization - on-top model with dropouts. Here we selected pretrained models as an ArcFace model trained with dropouts and an OpenFace model trained without dropouts. The architectires of the models are illustrated below. 
 
+Pretrained models were taken from : https://pypi.org/project/deepface/
 ArcFace Model : Pretrained model with dropouts
 OpenFace model : Pretrained model without dropouts
 
